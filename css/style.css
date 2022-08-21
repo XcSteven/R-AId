@@ -1,3 +1,31 @@
-.navbar {
+.primary-cl {
+    color: #fdd7b3;
+}
+
+.bg-primary-cl {
     background-color: #fdd7b3;
+}
+
+.secondary-cl {
+    color: #6fb7bc;
+}
+
+.bg-secondary-cl {
+    background-color: #6fb7bc;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 50px;
 }
